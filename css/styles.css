@@ -1,0 +1,166 @@
+ol,
+ul {
+  list-style-type: none;
+}
+/*============ Comon styles========= */
+a {
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
+  color: #2e2f42;
+}
+
+/* =========Body========= */
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background: #fff;
+}
+
+/* =========header========= */
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.text-studio {
+  color: #2e2f42;
+}
+
+.menu-link {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.menu-link:hover,
+.menu-link:focus {
+  color: #404bbf;
+}
+
+/* Adress header */
+
+.contact {
+  font-style: normal;
+}
+
+.contact-link {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.contact-link:hover,
+.contact-link:focus {
+  color: #404bbf;
+}
+
+/* 1st sections styles (Main) */
+.hero-section {
+  background: #2e2f42;
+}
+
+.main-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+
+.main-button {
+  font-family: "Roboto", sans-serif;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  background-color: #4d5ae5;
+}
+
+.main-button:hover,
+.main-button:focus {
+  background-color: #404bbf;
+}
+
+/* Benefits styles (2 section) */
+.benefits-list-item-description {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+/* ===Our team styles (3 section)=== */
+
+.team-section {
+  background-color: #f4f4fd;
+}
+
+.team-section-list-item {
+  background-color: #ffffff;
+}
+
+.worker-name {
+  text-align: center;
+}
+
+.worker-position {
+  text-align: center;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+/* ===Portfolio styles (4 section)=== */
+
+.portfolio-item-subscribe {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+/* =====Footer===== */
+
+.section-footer {
+  background: #2e2f42;
+}
+
+.footer-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+.text-studio-footer {
+  color: #f4f4fd;
+}
